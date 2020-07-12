@@ -1,0 +1,13 @@
+.settings
+.classpath
+.idea
+target/
+test-output/
+.DS_Store
+TestngCucumber.iml
+uiAutomation/myStore/screenshots
+._.DS_Store
+.project
+TestngCucumberBoilerPlate.iml
+.vscode
+.factorypath
